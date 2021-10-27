@@ -1,21 +1,23 @@
-### Hi there I'm Ian Adson👋
+### ⚙️ &nbsp;Hi there I'm Ian Adson
 
 - 🔭 I’m currently working on personal projects in Html, Css, Js, and NodeJs.
 - 🌱 I’m currently learning Web Development.
 - 👯 I’m looking to collaborate on projects that facilitate the processes of the IT community in general.
 - 🤔 I’m looking for help with fullstack web development
-- 💬 Ask me about Creator of the Downbios website, a repository of .Bin and .Rom files, to help IT technicians with recurring problems in the area, IT technician, 
+- 💬 About me: Creator of the Downbios website, a repository of .Bin and .Rom files, to help IT technicians with recurring problems in the area, IT technician, Chess Player, Yu-gi-Oh! Duel Links Player.
 
 <br></br>
 
+## ⚙️ &nbsp;GitHub Analytics
+
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=ianadson&show_icons=true&theme=vision-friendly-dark" alt="ian adson stats"/>
-</p>
-<p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianadson&layout=compact&theme=vision-friendly-dark" alt="ian adson most languages"/>
 </p>
 
 <br><br>
+
+## 🛠 &nbsp;Tech Stack
 
 [![ianadsonperfil](https://img.shields.io/badge/-RocketSeat-blueviolet)](https://app.rocketseat.com.br/me/ian-adson-05403)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
