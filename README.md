@@ -5,12 +5,17 @@
 - 👯 I’m looking to collaborate on projects that facilitate the processes of the IT community in general.
 - 🤔 I’m looking for help with fullstack web development
 - 💬 Ask me about Creator of the Downbios website, a repository of .Bin and .Rom files, to help IT technicians with recurring problems in the area, IT technician, 
-- 📫 How to reach me? here is my card: https://ianadson.github.io/home/ 
+
+<br></br>
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=ianadson&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianadson&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=ianadson&show_icons=true&theme=vision-friendly-dark" alt="ian adson stats"/>
 </p>
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianadson&layout=compact&theme=vision-friendly-dark" alt="ian adson most languages"/>
+</p>
+
+<br><br>
 
 [![ianadsonperfil](https://img.shields.io/badge/-RocketSeat-blueviolet)](https://app.rocketseat.com.br/me/ian-adson-05403)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
