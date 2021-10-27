@@ -7,10 +7,9 @@
 - 💬 Ask me about Creator of the Downbios website, a repository of .Bin and .Rom files, to help IT technicians with recurring problems in the area, IT technician, 
 - 📫 How to reach me? here is my card: https://ianadson.github.io/home/ 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianadson&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+[![Ian Adson GitHub stats](https://github-readme-stats.vercel.app/api?username=ianadson&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ianadsonperfil](https://img.shields.io/badge/-RocketSeat-blueviolet)](https://app.rocketseat.com.br/me/ian-adson-05403)
-
+![![ianadsonperfil](https://img.shields.io/badge/-RocketSeat-blueviolet)](https://app.rocketseat.com.br/me/ian-adson-05403)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
