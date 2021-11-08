@@ -10,8 +10,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=ianadson&show_icons=true&theme=flag-india" alt="ian adson stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianadson&layout=compact&theme=flag-india" alt="ian adson most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=downbios&show_icons=true&theme=flag-india" alt="ian adson stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=downbios&layout=compact&theme=flag-india" alt="ian adson most languages"/>
 </p>
 
 <br><br>
