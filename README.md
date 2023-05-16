@@ -1,22 +1,13 @@
-## ⚙️ &nbsp;Hi there I'm Ian Adson
+## ⚙️ &nbsp;Olá, Eu sou Ian Adson, desenvolvedor e fundador da marca Downbios.
 
-- 🔭 I’m currently working on personal projects in Html, Css, Js, and NodeJs.
-- 🌱 I’m currently learning Web Development.
-- 👯 I’m looking to collaborate on projects that facilitate the processes of the IT community in general.
-- 🤔 I’m looking for help with fullstack web development
-- 💬 About me: Creator of the Downbios website, a repository of .Bin and .Rom files, to help IT technicians with recurring problems in the area, IT technician, Chess Player, Yu-gi-Oh! Duel Links Player.
+- 🔭 Atualmente estou trabalhando em projetos pessoais em Html, Css, Js e NodeJs.
+- 🌱 Atualmente estou aprendendo Desenvolvimento Web.
+- 👯 Procuro colaborar em projetos que facilitem os processos da comunidade de TI em geral.
+- 🤔 Estou procurando aprimorar meus conhecimentos com desenvolvimento web fullstack
+- 💬 Sobre mim: Criador do site Downbios, um repositório de arquivos .Bin e .Rom, para auxiliar técnicos de TI com problemas recorrentes na área, Técnico de TI, Jogador de Xadrez, Jogador de Yu-gi-Oh! Duel Links.
 
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=downbios&show_icons=true&theme=flag-india" alt="ian adson stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=downbios&layout=compact&theme=flag-india" alt="ian adson most languages"/>
-</p>
-
-<br><br>
-
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Minha Stack
 
 [![ianadsonperfil](https://img.shields.io/badge/-RocketSeat-blueviolet)](https://app.rocketseat.com.br/me/ian-adson-05403)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
