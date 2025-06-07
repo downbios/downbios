@@ -1,14 +1,3 @@
-## ⚙️ &nbsp;Olá, Eu sou Ian Adson, desenvolvedor e fundador da marca Downbios.
-
-- 🔭 Atualmente estou trabalhando em projetos pessoais em Html, Css, Js e NodeJs.
-- 🌱 Atualmente estou aprendendo Desenvolvimento Web.
-- 👯 Procuro colaborar em projetos que facilitem os processos da comunidade de TI em geral.
-- 🤔 Estou procurando aprimorar meus conhecimentos com desenvolvimento web fullstack
-- 💬 Sobre mim: Criador do site Downbios, um repositório de arquivos .Bin e .Rom, para auxiliar técnicos de TI com problemas recorrentes na área, Técnico de TI, Jogador de Xadrez, Jogador de Yu-gi-Oh! Duel Links.
-
-
-## 🛠 &nbsp;Minha Stack
-
 [![ianadsonperfil](https://img.shields.io/badge/-RocketSeat-blueviolet)](https://app.rocketseat.com.br/me/ian-adson-05403)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
