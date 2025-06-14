@@ -38,5 +38,5 @@ Atualmente estou expandindo minha atuação para o desenvolvimento de sistemas, 
 ## 📬 Vamos conversar?
 
 Se quiser trocar uma ideia, colaborar em projetos ou saber mais sobre meu trabalho, estou à disposição!  
-🔗 **Email:** [seuemail@exemplo.com]  
+🔗 **Email:** [ian.adson.vieira@gmail.com]  
 🔗 **LinkedIn:** [linkedin.com/in/ianadson/](https://www.linkedin.com/in/ianadson/)
