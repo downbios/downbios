@@ -29,11 +29,6 @@ Atualmente estou expandindo minha atuação para o desenvolvimento de sistemas, 
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=downbios&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
----
 
 ## 📬 Vamos conversar?
 
